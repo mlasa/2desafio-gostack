@@ -1,7 +1,7 @@
 <h1 align="center">Desafio 02</h1>
 <h5 align="center"> 🚀Este projeto é parte do Bootcamp GoStack</h5>
 
-### 💡O que é heyDev?
+### 💡O que é ?
 <p align="justify">
 Projeto com funcionalidades básicas de criação, consulta, atualização e destruição.
 </p>
