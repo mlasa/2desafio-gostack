@@ -1,5 +1,5 @@
 <h1 align="center">Desafio 02</h1>
-<h5 align="center"> 🚀Este projeto é parte do Bootcamp GoStack</h5>
+<h5 align="center"> 🚀Este projeto é um dos desafios do Bootcamp GoStack</h5>
 
 ### 💡O que é ?
 <p align="justify">
