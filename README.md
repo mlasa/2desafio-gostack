@@ -3,8 +3,8 @@
 
 ### 💡O que é ?
 <p align="justify">
-Projeto com funcionalidades básicas de criação, consulta, atualização e destruição.
-Criação, consulta, atualização e destruição e likes em repositórios de projetos.
+Projeto back-end com funcionalidades básicas de criação, consulta, atualização e destruição.
+CRUD e likes em repositórios de projetos.
 </p>
 
 
